@@ -14,7 +14,7 @@ Contributing to `addr2js` is easy. In a few simple steps:
   * Adhere to code style outlined in the [Google C++ Style Guide][] and
     [Google Javascript Style Guide][].
 
-  * Sign the [Contributor License Agreement](https://cla.strongloop.com/strongloop/addr2js)
+  * Sign the [Contributor License Agreement](https://cla.strongloop.com/agreements/strongloop/addr2js)
 
   * Submit a pull request through Github.
 
